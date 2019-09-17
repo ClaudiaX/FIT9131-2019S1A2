@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=ListOfVenues
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ListOfVenue\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=ListOfVenues()
+comment10.params=index
+comment10.target=double\ getVenueChanceOfRain(int)
+comment11.params=index
+comment11.target=void\ removeVenue(int)
+comment2.params=venues
+comment2.target=ListOfVenues(java.util.ArrayList)
+comment3.params=
+comment3.target=java.util.ArrayList\ getVenues()
+comment4.params=venues
+comment4.target=void\ setVenues(java.util.ArrayList)
+comment5.params=venueName\ noOfLaps\ averageLapTime\ chanceOfRain
+comment5.target=void\ addVenue(java.lang.String,\ int,\ int,\ double)
+comment6.params=
+comment6.target=int\ getSize()
+comment7.params=index
+comment7.target=Venue\ getVenueByIndex(int)
+comment8.params=index
+comment8.target=int\ getVenueTotalLaps(int)
+comment9.params=index
+comment9.target=int\ getVenueAvgLapTime(int)
+numComments=12
